@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-💤 Actualmente no estoy trabajando en ningún proyecto específico.<br><br>🤝 Estoy buscando colaborar en proyectos de código abierto o de desarrollo web.<br><br>🙋 Estoy buscando ayuda para mejorar mis habilidades en React y Node.js.<br><br>🌱 Actualmente estoy aprendiendo desarrollo backend con Node.js y Express.<br><br>💬 Pregúntame sobre JavaScript, React o ideas de proyectos.<br><br>⚡ Dato curioso: me encanta aprender nuevas tecnologías y mejorar mis proyectos personales.
+<br>🙋 Estoy buscando ayuda para mejorar mis habilidades en React y Node.js.<br><br>🌱 Actualmente estoy aprendiendo desarrollo backend con Node.js y Express.<br><br><br>⚡ Dato curioso: me encanta aprender nuevas tecnologías y mejorar mis proyectos personales.
 
 
 ## 🌐 Socials:
