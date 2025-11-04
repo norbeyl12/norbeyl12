@@ -36,15 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-| ![Norbey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=norbey112&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=norbey112&layout=compact&theme=tokyonight) |
-|:-:|:-:|
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=norbey112&theme=tokyonight&hide_border=false)
-
----
-
 ## 🌐 Conéctate conmigo  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
