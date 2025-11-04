@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<br>🌱 Actualmente estoy aprendiendo desarrollo backend con Node.js y Express.<br><br><br>⚡me encanta aprender nuevas tecnologías y mejorar mis proyectos personales.
-tengo conociemiento en PowerBi
+<br>🌱 Actualmente estoy aprendiendo desarrollo backend con Node.js y Express.<br><br><br>⚡me encanta aprender nuevas tecnologías y mejorar mis proyectos personales.<br>
+<br>tengo conociemiento en PowerBi<br>
 
 
 ## 🌐 Socials:
