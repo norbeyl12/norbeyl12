@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<br>🙋 Estoy buscando ayuda para mejorar mis habilidades en React y Node.js.<br><br>🌱 Actualmente estoy aprendiendo desarrollo backend con Node.js y Express.<br><br><br>⚡ Dato curioso: me encanta aprender nuevas tecnologías y mejorar mis proyectos personales.
+<br>🙋 Estoy buscando ayuda para mejorar mis habilidades en React y Node.js.<br><br>🌱 Actualmente estoy aprendiendo desarrollo backend con Node.js y Express.<br><br><br>⚡me encanta aprender nuevas tecnologías y mejorar mis proyectos personales.
 
 
 ## 🌐 Socials:
