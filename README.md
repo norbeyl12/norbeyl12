@@ -4,6 +4,8 @@
 
 ### Junior Backend Developer · Python · AWS · REST APIs
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 Computer Systems Engineering student based in **Medellín, Colombia**  
 Building my experience in backend development and serverless applications.
 
@@ -33,6 +35,14 @@ My experience includes building web applications, integrating RESTful APIs, and 
 | Databases | MySQL, SQL Server, DynamoDB |
 | Frontend | Angular, TypeScript |
 | Tools | Git, GitHub, Postman, Visual Studio Code |
+
+## Selected repositories
+
+| Project | What you can explore |
+| --- | --- |
+| [FitZone Pro · Tienda-main](https://github.com/norbeyl12/Tienda-main) | E-commerce with React, TypeScript, Node.js/Express, and SQLite. |
+| [ProductManager](https://github.com/norbeyl12/ProductManager) | In-memory product operations in Java 21, with Maven and coverage configuration. |
+| [MyBlog](https://github.com/norbeyl12/MyBlog) | A personal About Me page built with React, Vite, and React Router. |
 
 ## Featured project
 
